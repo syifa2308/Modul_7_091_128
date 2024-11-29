@@ -5,6 +5,7 @@ import android.database.SQLException
 import android.database.sqlite.SQLiteDatabase
 import com.example.modul7_128_91.DatabaseContract.HomeworkColumns.Companion.TABLE_NAME
 import com.example.modul7_128_91.DatabaseContract.HomeworkColumns.Companion._ID
+import com.example.modul7_128_91.DatabaseHelper
 import kotlin.jvm.Throws
 
 class HomeworkHelper (context: Context) {

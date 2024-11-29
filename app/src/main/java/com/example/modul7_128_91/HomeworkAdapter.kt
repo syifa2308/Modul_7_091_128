@@ -2,6 +2,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.example.modul7_128_91.Homework
+import com.example.modul7_128_91.R
 import com.example.modul7_128_91.databinding.ItemHomeworkBinding
 
 class HomeworkAdapter(private val onItemClickCallback: OnItemClickCallback) :
