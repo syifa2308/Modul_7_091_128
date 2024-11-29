@@ -1,4 +1,6 @@
 import android.database.Cursor
+import com.example.modul7_128_91.DatabaseContract
+import com.example.modul7_128_91.Homework
 
 object MappingHelper {
 
