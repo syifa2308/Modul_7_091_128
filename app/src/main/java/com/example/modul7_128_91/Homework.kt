@@ -1,6 +1,7 @@
 package com.example.modul7_128_91
 
 import android.os.Parcelable
+import kotlinx.parcelize.Parcelize
 
 @Parcelize
 data class Homework(
